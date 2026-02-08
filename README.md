@@ -15,3 +15,4 @@ This repository is a curated snapshot of a much larger private ecosystem running
 - Android device with Termux
 - No root, everything in user-space
 - Git + Python stack
+# aurora-teraga-lab
