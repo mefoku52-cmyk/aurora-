@@ -1,18 +1,8 @@
-# AURORA & Teraga Lab (Android / Termux)
+# AURORA & Teraga Lab
 
-Self-healing AI operating system and Slovak language model lab running fully on Android (Termux, no root required).
+Self-healing AI OS + Slovak LLM on Android/Termux.
 
-## What is inside
+## Demo: watchdog, orchestrator
+## Prod: 50+ modules, 12L/512D Slovak LLM, 10GB corpus
 
-- **AURORA core** – orchestration scripts for an AI OS (heartbeat, master orchestrators, nonstop learn loops).
-- **Teraga-X lab** – Slovak transformer models with RMSNorm, RoPE, self-reflection, watchdog/doctor, and full diagnostic framework.
-- **Monolithskbrain** – meta-brain with subsystems (emergent anatomy, qlora, anomaly detection, health monitoring, self-reflect).
-
-This repository is a curated snapshot of a much larger private ecosystem running on a phone.
-
-## Platform
-
-- Android device with Termux
-- No root, everything in user-space
-- Git + Python stack
-# aurora-teraga-lab
+**Built on 📱🇸🇰**
